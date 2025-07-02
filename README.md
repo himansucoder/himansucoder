@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Himansu
 
-<!--
-**himansucoder/himansucoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Background:**  
+Political Science graduate exploring the world of technology and data-driven solutions.
 
-Here are some ideas to get you started:
+🌟 **Currently Learning:**
+- Python programming (core concepts, functions, OOP)
+- Data analysis with **Pandas**, **NumPy**
+- Data visualization using **Matplotlib** and **Seaborn**
+- Machine Learning fundamentals (**scikit-learn**)
+- Basics of **APIs** and web scraping
+- Prompt engineering for AI models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Next Steps:**
+- Deep Learning with **TensorFlow** and **PyTorch**
+- Model deployment using **Flask** and **FastAPI**
+- Containerization with **Docker**
+- Building interactive apps with **Streamlit**
+- Cloud hosting basics (AWS, GCP)
+
+✨ **Projects:**
+- [SkyCast](https://github.com/himansucoder/skycast): Weather prediction app that analyzes user inputs and stores historical data for forecasting.
+- More data and AI projects coming soon.
+
+📫 **Connect with me:**
+- [Instagram](https://www.instagram.com/me.himansu_das?igsh=ZXI0dnBmemY4aWdk)
+- ✉️ Email: hdas8793@gmail.com
+
+---
+
+![Himansu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himansucoder&show_icons=true&theme=radical)
+
+
